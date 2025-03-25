@@ -8,6 +8,7 @@ or some of my [Projects](https://a3chron.vercel.app/projects).
 Feel free to visit my [Portfolio Website](https://a3chron.vercel.app/)
 
 
+<!--
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kurtschambach&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kurtschambach&theme=vue-dark&hide_border=true)<br/>
@@ -20,5 +21,6 @@ Feel free to visit my [Portfolio Website](https://a3chron.vercel.app/)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kurtschambach&icon=5&color=8)](https://visitcount.itsvg.in)
+-->
   
 <!-- created with GPRM ( https://gprm.itsvg.in ) -->
