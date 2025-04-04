@@ -1,7 +1,7 @@
 [![](https://a3chron.vercel.app/a3chron.png)](https://a3chron.vercel.app/)
 
 # About Me:
-I'm currently working at [Titanom Technologies]().  
+I'm currently working at [Titanom Technologies](https://github.com/titanom/).  
 In my free time I write on my [Blog](https://a3chron.vercel.app/blog)
 or some of my [Projects](https://a3chron.vercel.app/projects).
 
