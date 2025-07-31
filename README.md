@@ -1,6 +1,6 @@
 [![](https://a3chron.vercel.app/a3chron.png)](https://a3chron.vercel.app/)
 
-![Static Badge](https://img.shields.io/badge/About%20Me-na?style=for-the-badge&color=%23fab387)
+![Static Badge](https://img.shields.io/badge/About%20Me-na?style=for-the-badge&color=%2394e2d5)
 
 I'm currently working at [Titanom Technologies](https://github.com/titanom/).  
 In my free time I write on my [Blog](https://a3chron.vercel.app/blog)
