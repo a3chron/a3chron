@@ -6,7 +6,7 @@ I'm working at [Titanom Technologies](https://github.com/titanom/).
 In my free time I write on my [Blog](https://a3chron.vercel.app/blog)
 or some of my [Projects](https://a3chron.vercel.app/projects).
 
-Feel free to visit my [Portfolio Website](https://a3chron.vercel.app/)
+Check out my [Portfolio Website](https://a3chron.vercel.app/) for more information.
 
 <br/>
 
